@@ -1,0 +1,20 @@
+{
+  "name": "crypto-7-day-price",
+  "version": "1.0.0",
+  "description": "\"cryto price over past 7 days\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"crypto\"",
+    "\"price\"",
+    "\"bitcoin\"",
+    "\"eth\"]"
+  ],
+  "author": "jayzhu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
