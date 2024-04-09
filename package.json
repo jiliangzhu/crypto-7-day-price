@@ -1,20 +1,24 @@
 {
-  "name": "crypto-7-day-price",
-  "version": "1.1.0",
-  "description": "\"cryto price over past 7 days\"",
+  "name": "crypto-price-7days",
+  "version": "1.0.0",
+  "description": "search crypto price over 7 days",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiliangzhu/crypto-7-day-price.git"
+  },
   "keywords": [
     "[\"crypto\"",
-    "\"price\"",
-    "\"bitcoin\"",
-    "\"eth\"]"
+    "\"eth\"",
+    "\"btc\"]"
   ],
-  "author": "jayzhu",
+  "author": "leo",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^1.6.8"
-  }
+  "bugs": {
+    "url": "https://github.com/jiliangzhu/crypto-7-day-price/issues"
+  },
+  "homepage": "https://github.com/jiliangzhu/crypto-7-day-price#readme"
 }
