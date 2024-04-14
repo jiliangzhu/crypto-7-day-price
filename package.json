@@ -1,6 +1,6 @@
 {
   "name": "crypto-price-7days",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "description": "search crypto price over 7 days",
   "main": "index.js",
   "scripts": {
